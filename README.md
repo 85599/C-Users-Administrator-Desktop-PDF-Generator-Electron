@@ -13,7 +13,39 @@
     * jQuery - to load the data into HTML elements 
     * Chart.js and Canvas API - to draw a chart using the parsed JSON data
 
- 
+#### Installation
+
+Install ([node 8](https://nodejs.org/es/download/) or higher):
+
+```
+git clone git@github.com:85599/Desktop-PDF-Generator-Electron.git
+cd Desktop-PDF-Generator-Electron
+```
+
+#### Develop
+
+`npm Install`
+
+Run electron in debug mode, usefull to develop
+
+#### Build
+
+`npm run build`
+
+This command generate a directory "bin" with binaries for windows and linux
+
+#### Start Elecetron
+
+`electron start`
+
+#### Next Step
+
+`electron main.js`
+
+#### Testing
+
+No tests
+
 # Screenshots
 
 ## Login
@@ -26,7 +58,7 @@
 
 
 ## Final
-![Final 2:](https://github.com/85599/Desktop-PDF-Generator-Electron/blob/master/assets/Screenshot%20(173).png
+![Final 2:](https://github.com/85599/Desktop-PDF-Generator-Electron/blob/master/assets/Screenshot%20(175).png
 
 
 
