@@ -46,6 +46,9 @@ This command generate a directory "bin" with binaries for windows and linux
 
 No tests
 
+> ## User Name: admin
+> ## Password: admin4545
+
 # Screenshots
 
 ## Login
